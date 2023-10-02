@@ -1,3 +1,7 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/lfm4pa4jj16ycir6?svg=true)](https://ci.appveyor.com/project/ayostar/7-ra-homework-hoc)
+
+[[Github Pages](https://ayostar.github.io/7-ra-homework-hoc/)]
+
 # HOC — Higher Order Components
 
 Необходимо выполнить и предоставить на проверку следующие задачи:
